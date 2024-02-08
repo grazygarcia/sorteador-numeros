@@ -36,7 +36,3 @@ Como Usar
 - Insira os valores mínimo e máximo para o intervalo de números desejado.
 
 - Clique no botão "Sortear" para gerar um número aleatório dentro do intervalo especificado.
-
-## 🖼️ Tela Inicial : 
-
-![image](https://github.com/grazygarcia/sorteador-numeros/blob/main/img/code.png)
